@@ -7,5 +7,5 @@
 ```
 - 设置定时任务，每日凌晨巡检
 ```
-0 0 * * * python2.7 /usr/local/python27/checklist.py
+0 0 * * * python2.7 /usr/local/python27/rds_info.py
 ```
